@@ -20,6 +20,22 @@ body {
     margin-left: 20px;
 }
 
+p {
+    font-variant: small-caps;
+}
+
+#project1 {
+    font-variant: normal;
+}
+
+.project p { /*descendants*/
+    font-variant: small-caps;
+}
+
+
+
+
+
 .jumbotron {
 	position: relative;
 	background: none;
