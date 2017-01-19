@@ -18,6 +18,9 @@ body {
 
 .project {
     margin-left: 20px;
+    background-color: #deebf7;
+    padding: 20px;
+    width: 525px;
 }
 
 p {
@@ -43,8 +46,8 @@ p {
 
 .jumbotron:after {
      content:"";
-     background: url("http://lorempixel.com/1140/283");
-     opacity: 0.2;
+     background-image: url("http://i2.kym-cdn.com/photos/images/newsfeed/000/697/069/753.png");
+     opacity: 0.4;
      top: 0;
      left: 0;
      bottom: 0;
